@@ -47,4 +47,4 @@ group :development do
 end
 
 gem 'webdrivers', '~> 5.0', require: false
-
+gem 'selenium-webdriver'
