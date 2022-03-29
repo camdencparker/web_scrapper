@@ -46,3 +46,5 @@ group :development do
   # gem "spring"
 end
 
+gem 'webdrivers', '~> 5.0', require: false
+
